@@ -21,4 +21,4 @@ No momento, a organização se encontra da seguinte maneira:
 TUtilsForms.ShowMsg( Self, 'Olá mundo', mbxOk );
 
 ## Sobre ⚠️
-No momento não realizei testes com a ferramenta Delphi, apenas no Lazarus.
+A idéia é compatibilizar todos os métodos com o Delphi/Lazarus.
